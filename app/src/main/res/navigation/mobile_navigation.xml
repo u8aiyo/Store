@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_sign_in"
+        android:name="com.apuri.sutoaa.SignInFragment"
+        android:label="@string/menu_sign_in"
+        tools:layout="@layout/fragment_sign_in" />
+
+    <fragment
+        android:id="@+id/nav_sign_up"
+        android:name="com.apuri.sutoaa.SignUpFragment"
+        android:label="@string/menu_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+
+    <fragment
+        android:id="@+id/nav_reset_password"
+        android:name="com.apuri.sutoaa.ResetPasswordFragment"
+        android:label="@string/menu_reset_password"
+        tools:layout="@layout/fragment_reset_password" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.apuri.sutoaa.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_my_account"
+        android:name="com.apuri.sutoaa.MyAccountFragment"
+        android:label="@string/menu_my_account"
+        tools:layout="@layout/fragment_my_account" />
+
+    <fragment
+        android:id="@+id/nav_my_cart"
+        android:name="com.apuri.sutoaa.MyCartFragment"
+        android:label="@string/menu_my_cart"
+        tools:layout="@layout/fragment_my_cart" />
+
+    <fragment
+        android:id="@+id/nav_my_orders"
+        android:name="com.apuri.sutoaa.MyOrdersFragment"
+        android:label="@string/menu_my_orders"
+        tools:layout="@layout/fragment_my_orders" />
+
+    <fragment
+        android:id="@+id/nav_my_rewards"
+        android:name="com.apuri.sutoaa.MyRewardsFragment"
+        android:label="@string/menu_my_rewards"
+        tools:layout="@layout/fragment_my_rewards" />
+
+    <fragment
+        android:id="@+id/nav_my_wish_list"
+        android:name="com.apuri.sutoaa.MyWishListFragment"
+        android:label="@string/menu_my_wish_list"
+        tools:layout="@layout/fragment_my_wish_list" />
+
+    <fragment
+        android:id="@+id/nav_my_order_details"
+        android:name="com.apuri.sutoaa.OrderDetailsFragment"
+        android:label="@string/menu_my_order_details"
+        tools:layout="@layout/fragment_order_details" />
+
+    <fragment
+        android:id="@+id/nav_product_description"
+        android:name="com.apuri.sutoaa.ProductDescriptionFragment"
+        android:label="@string/menu_product_description"
+        tools:layout="@layout/fragment_product_description" />
+
+    <fragment
+        android:id="@+id/nav_product_specification"
+        android:name="com.apuri.sutoaa.ProductSpecificationFragment"
+        android:label="@string/menu_product_specification"
+        tools:layout="@layout/fragment_product_specification" />
+
+</navigation>

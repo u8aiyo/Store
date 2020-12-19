@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+    <string name="action_notification">Notification</string>
+    <string name="action_cart">Cart</string>
+
+    <string name="menu_sign_in">Sign In</string>
+    <string name="menu_sign_up">Sign Up</string>
+    <string name="menu_reset_password">Reset Password</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_my_account">My Account</string>
+    <string name="menu_my_cart">My Cart</string>
+    <string name="menu_my_orders">My Orders</string>
+    <string name="menu_my_rewards">My Rewards</string>
+    <string name="menu_my_wish_list">My Wish List</string>
+    <string name="menu_my_order_details">My Order Details</string>
+    <string name="menu_product_description">Product Description</string>
+    <string name="menu_product_specification">Product Specification</string>
+
+    <string name="menu_about_us">About us</string>
+    <string name="description_info">The iPhone 8 features a 4.7-inch display with a resolution of 1334 by 750 with 326 pixels per inch and a 1400:1 contrast ratio, while the iPhone 8 Plus features a 5.5-inch display with a 1920 by 1080 resolution, 401 pixels per inch, and a 1300:1 contrast ratio.\n\nThe iPhone 8 features a 4.7-inch display with a resolution of 1334 by 750 with 326 pixels per inch and a 1400:1 contrast ratio, while the iPhone 8 Plus features a 5.5-inch display with a 1920 by 1080 resolution, 401 pixels per inch, and a 1300:1 contrast ratio.</string>
+
+    <string-array name="saudisrabiastates">
+        <item>Riyadh</item>
+        <item>Makkah</item>
+        <item>Dammam</item>
+        <item>Abha</item>
+        <item>Jazan</item>
+        <item>Madinah</item>
+        <item>Buraidah</item>
+        <item>Tabuk</item>
+        <item>Hail</item>
+        <item>Najran</item>
+        <item>Sakaka</item>
+        <item>Al-Baha</item>
+        <item>Arar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_store"
+            android:icon="@drawable/my_store"
+            android:title="Store" />
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/order_icon_menu"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_my_rewards"
+            android:icon="@drawable/rewards_icon_menu"
+            android:title="My Rewards" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@drawable/cart_icon_menu"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_my_wish_list"
+            android:icon="@drawable/wish_list_icon_menu"
+            android:title="My Wishlist" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@drawable/profile_icon_menu"
+            android:title="My Account" />
+    </group>
+    <item
+        android:id="@+id/nav_sign_out"
+        android:icon="@drawable/sign_out_icon_menu"
+        android:title="Sign Out" />
+<!--    <item android:title="About us">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/nav_about_us"-->
+<!--                android:icon="@drawable/instagram_icon_menu"-->
+<!--                android:title="@string/menu_about_us" />-->
+<!--        </menu>-->
+<!--    </item>-->
+</menu>
