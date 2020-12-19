@@ -1,7 +1,19 @@
 # Store
-Store using firebase
 
-# Screen shot
+![image](https://user-images.githubusercontent.com/70873510/102688280-72e45f80-41fe-11eb-80c9-8acfeb289543.png)
+
+> Store using firebase
+
+![image](https://user-images.githubusercontent.com/70873510/102688545-14b87c00-4200-11eb-91f0-95a094fbbf61.png)
+![image](https://user-images.githubusercontent.com/70873510/102688554-1aae5d00-4200-11eb-8a6b-29fe52b349c6.png)
+![image](https://user-images.githubusercontent.com/70873510/102688558-21d56b00-4200-11eb-8cfe-1d5a75c4f42b.png)
+![image](https://user-images.githubusercontent.com/70873510/102688563-2a2da600-4200-11eb-82b7-9853b3eaad65.png)
+![image](https://user-images.githubusercontent.com/70873510/102688577-3a458580-4200-11eb-8e15-08fe76141298.png)
+![image](https://user-images.githubusercontent.com/70873510/102688578-3f0a3980-4200-11eb-80b2-ce4f9f2de033.png)
+![image](https://user-images.githubusercontent.com/70873510/102688603-7a0c6d00-4200-11eb-949a-03e64cbff62f.png)
+![image](https://user-images.githubusercontent.com/70873510/102688605-7d075d80-4200-11eb-9439-678399a8447a.png)
+
+> Screen shot
 ![image](https://user-images.githubusercontent.com/70873510/102688198-b68a9980-41fd-11eb-9607-5bc3110df504.png)
 ![image](https://user-images.githubusercontent.com/70873510/102688235-197c3080-41fe-11eb-9883-1acba1e74917.png)
 ![image](https://user-images.githubusercontent.com/70873510/102688240-200aa800-41fe-11eb-9232-1f54c7e424f2.png)
